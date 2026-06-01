@@ -8,7 +8,7 @@ My center of gravity is the backend: designing scalable microservices, optimizin
 
 ### 🛠 Tech Stack
 
-**Languages:** C/C++ · Go · Python · TypeScript/JavaScript · SQL
+**Languages:** C/C++ · Python · TypeScript/JavaScript · SQL
 **Backend & Frameworks:** Node.js · FastAPI · Next.js · React
 **Infrastructure & Data:** Docker · Kubernetes · PostgreSQL · Redis · AWS · Git
 
@@ -26,16 +26,6 @@ My center of gravity is the backend: designing scalable microservices, optimizin
 ### 🔬 Deep Interests
 
 Low-level **systems engineering**, **applied cryptography**, and **backend optimization** — concurrency models, lock-free data structures, caching strategies, and shaving latency off critical paths.
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/you/repo)** | One sentence — lead with the problem it solves and any scale/perf numbers. | Go, Redis, Kubernetes |
-| **[Project Name](https://github.com/you/repo)** | One sentence — e.g. a RAG service or backend system you built. | Python, FastAPI, vector DB |
-| **[Project Name](https://github.com/you/repo)** | One sentence. | C++ / TypeScript |
 
 ---
 
