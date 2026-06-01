@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Chaitanya Prabhu 👋
 
-<!--
-**chaitanyaPrabhu1/chaitanyaPrabhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Backend Engineer** — building high-performance, fault-tolerant services and the infrastructure that keeps them fast under load.
 
-Here are some ideas to get you started:
+My center of gravity is the backend: designing scalable microservices, optimizing for latency and throughput, and reasoning about systems from the language runtime down to the network. I also build and ship LLM-powered features end to end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages:** C/C++ · Go · Python · TypeScript/JavaScript · SQL
+**Backend & Frameworks:** Node.js · FastAPI · Next.js · React
+**Infrastructure & Data:** Docker · Kubernetes · PostgreSQL · Redis · AWS · Git
+
+---
+
+### 🎯 What I Specialize In
+
+- **Backend performance engineering** — latency reduction, throughput tuning, profiling, concurrency, and efficient resource/memory management for services under high load.
+- **Distributed systems & microservices** — designing decoupled, horizontally scalable architectures with resilient inter-service communication.
+- **API design** — production-grade REST and GraphQL APIs with an eye on contracts, versioning, and consumer ergonomics.
+- **AI / LLM integration** — architecting and shipping production LLM features, including retrieval-augmented generation (RAG) pipelines built on LangChain and vector databases.
+
+---
+
+### 🔬 Deep Interests
+
+Low-level **systems engineering**, **applied cryptography**, and **backend optimization** — concurrency models, lock-free data structures, caching strategies, and shaving latency off critical paths.
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](https://github.com/you/repo)** | One sentence — lead with the problem it solves and any scale/perf numbers. | Go, Redis, Kubernetes |
+| **[Project Name](https://github.com/you/repo)** | One sentence — e.g. a RAG service or backend system you built. | Python, FastAPI, vector DB |
+| **[Project Name](https://github.com/you/repo)** | One sentence. | C++ / TypeScript |
+
+---
+
+### 🎓 Education
+
+- **B.Tech, [Branch]** — National Institute of Technology, Silchar
+- **M.Tech (CS) coursework** — IIIT Hyderabad
+
+---
+
+### 📫 Get in touch
+
+- **Portfolio:** [yoursite.com](https://yoursite.com)
+- **LinkedIn:** [linkedin.com/in/you](https://linkedin.com/in/you)
+- **Email:** you@email.com
+
+---
+
+<sub>Open to systems and backend engineering roles. Feel free to reach out.</sub>
