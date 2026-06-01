@@ -31,16 +31,16 @@ Low-level **systems engineering**, **applied cryptography**, and **backend optim
 
 ### 🎓 Education
 
-- **B.Tech, [Branch]** — National Institute of Technology, Silchar
-- **M.Tech (CS) coursework** — IIIT Hyderabad
+- **B.Tech, [Civil Engineering]** — National Institute of Technology, Silchar
+- **M.Tech (Computer Science) coursework** — IIIT Hyderabad
 
 ---
 
 ### 📫 Get in touch
 
-- **Portfolio:** [yoursite.com](https://yoursite.com)
-- **LinkedIn:** [linkedin.com/in/you](https://linkedin.com/in/you)
-- **Email:** you@email.com
+- **Portfolio:** [yoursite.com](https://chaitanyaprabhu1.github.io/)
+- **LinkedIn:** [linkedin.com/in/you](https://www.linkedin.com/in/chaitanya-p-82a534312)
+- **Email:** chaitanyasprabhu@gmail.com
 
 ---
 
