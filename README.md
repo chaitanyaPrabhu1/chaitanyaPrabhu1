@@ -31,8 +31,10 @@ Low-level **systems engineering**, **applied cryptography**, and **backend optim
 
 ### 🎓 Education
 
-- **B.Tech, (Civil Engineering, 2020-24)** — National Institute of Technology, Silchar
-- **M.Tech (Computer Science, 2025-26)[dropped-out] coursework** — IIIT Hyderabad
+- **B.Tech, Civil Engineering (2020–24)** — National Institute of Technology, Silchar
+- **M.Tech, Computer Science (2025–26)** — IIIT Hyderabad *(graduate coursework completed)*
+
+**Relevant coursework:** Advanced Operating Systems · Data Structures & Algorithms for Problem Solving · Software Engineering · Software System Development · System & Network Security · Statistical Methods in AI
 
 ---
 
