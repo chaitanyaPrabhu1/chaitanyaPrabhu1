@@ -38,8 +38,8 @@ Low-level **systems engineering**, **applied cryptography**, and **backend optim
 
 ### 📫 Get in touch
 
-- **Portfolio:** [yoursite.com](https://chaitanyaprabhu1.github.io/)
-- **LinkedIn:** [linkedin.com/in/you](https://www.linkedin.com/in/chaitanya-p-82a534312)
+- **Portfolio:** [personal website](https://chaitanyaprabhu1.github.io/)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/chaitanya-p-82a534312)
 - **Email:** chaitanyasprabhu@gmail.com
 
 ---
