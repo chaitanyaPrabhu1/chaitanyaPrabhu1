@@ -1,4 +1,4 @@
-# Hi, I'm Chaitanya Prabhu 👋
+# Hi, I'm Chaitanya
 
 **Systems & Backend Engineer** — building high-performance, fault-tolerant services and the infrastructure that keeps them fast under load.
 
